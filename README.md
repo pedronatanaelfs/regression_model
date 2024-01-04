@@ -1,14 +1,19 @@
-# Modelo-de-Regress-o-para-Marketing
-Construção de um modelo de regressão para Marketing de uma empresa
+# Regression Model for Advertising ROI Prediction 📈
+## Context - Introduction
+A company is monthly investing in online advertising platforms such as YouTube, Facebook, and newspapers to generate leads (individuals interested in their products). To monitor the performance of these investments, the company records all advertising expenses and the sales returns generated from these investments.
 
-Uma empresa está investindo mensalmente em plataformas de publicidade online, como Youtube, Facebook e newspaper, para a prospecção de leads (pessoas interessadas em seus produtos). A fim de acompanhar o desempenho desses investimentos, a empresa registra todos os gastos com publicidade e todos os retornos de vendas gerados a partir desses investimentos. Para entender melhor a relação entre as variáveis presentes nesses registros e identificar os fatores que mais impactam na geração de leads, a empresa solicitou a análise de um especialista em dados. Além disso, a empresa busca criar um modelo de predição de valores para estimar o retorno de vendas que pode ser gerado a partir de um determinado investimento em publicidade.
+To better understand the relationship between the variables in these records and identify the factors that most impact lead generation, the company has sought the expertise of a data specialist. Additionally, the company aims to create a predictive model to estimate the sales return that can be generated from a specific advertising investment.
 
-Sobre os dados
-A tabela contém informações dos investimentos feitos pelo youtube, facebook,
-newspaper e também a quantidade de cada.
+## About the Data
+The dataset contains information on investments made in YouTube, Facebook, and newspapers, along with the respective quantities for each.
 
-Coluna / Descrição - 
-youtube / Investimento youtube - 
-facebook / Investimento facebook - 
-newspaper / Investimento newspaper - 
-sales / Valor das vendas
+| Column |	Description |
+| --- | --- |
+| youtube |	Investment in YouTube |
+| facebook |	Investment in Facebook |
+| newspaper |	Investment in Newspaper |
+| sales |	Sales revenue |
+
+Explore the Jupyter Notebook to delve into the analysis, understand the relationships between advertising investments and sales returns, and discover the key factors influencing lead generation.
+
+Feel free to reach out for any questions or insights!
